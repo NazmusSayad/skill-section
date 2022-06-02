@@ -1,1 +1,53 @@
-{}
+{
+  "skill": [
+    { "name": "HTML" },
+    { "name": "CSS" },
+    { "name": "JavaScript" },
+    { "name": "Python" },
+    { "name": "C" },
+    { "name": "C++" },
+    { "name": "C#" },
+    { "name": "Java" }
+  ],
+  "list": [
+    
+
+    "ISWIM",
+    "J",
+    "J#",
+    "J++",
+    "JADE",
+    "Jako",
+    "JAL",
+    "Janus",
+    "JASS",
+    "Java",
+
+    "JScript .NET",
+    "JavaFX Script",
+    "Julia",
+    "Jython",
+
+    "KRL",
+    "KUKA",
+    "KRYPTON",
+
+    "Lite-C",
+    "Lithe",
+    "Little b",
+    "Logo",
+    "Logtalk",
+    "LPC",
+    "LSE",
+    "LSL",
+    "LiveCode",
+
+    "Speedcode",
+    "SPIN",
+
+    "Z notation",
+    "Zeno",
+    "ZOPL",
+    "ZPL"
+  ]
+}

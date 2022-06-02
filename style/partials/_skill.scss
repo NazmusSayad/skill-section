@@ -1,0 +1,19 @@
+.skill {
+  position: relative;
+  height: 90vh;
+  background: #fff;
+  font-family: "Rubik", sans-serif;
+  font-weight: 300;
+  width: 90%;
+  margin: auto;
+  margin-top: 5vh;
+
+  &__item {
+    width: fit-content;
+    // background: lightcoral;
+    position: absolute;
+    color: lightblue;
+    stroke: 2px #000;
+    -webkit-text-stroke: 0.3px #eee;
+  }
+}
